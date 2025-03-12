@@ -12,6 +12,9 @@ void bubbleSort(int arr[], int n) {
         }
     }
 }
+
+//random text random text random text random text
+
 /*
 void printArray(int arr[], int size) {
     int i;
