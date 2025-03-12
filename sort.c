@@ -16,7 +16,7 @@ void bubbleSort(int arr[], int n) {
 //random text random text random text random text
 //new random text!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-/*
+
 void printArray(int arr[], int size) {
     int i;
     for (i = 0; i < size; i++)
@@ -36,4 +36,4 @@ int main() {
     printf("Отсортированный массив: \n");
     printArray(arr, n);
     return 0;
-}*/
+}
