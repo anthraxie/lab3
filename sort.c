@@ -13,9 +13,6 @@ void bubbleSort(int arr[], int n) {
     }
 }
 
-//random text random text random text random text
-//new random text!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 
 void printArray(int arr[], int size) {
     int i;
@@ -25,7 +22,7 @@ void printArray(int arr[], int size) {
 }
 
 int main() {
-    int arr[] = {64, 34, 25, 12, 22, 11, 90};
+    int arr[] = {64, 34, 25, 12, 22, 11};
     int n = sizeof(arr) / sizeof(arr[0]);
     
     printf("Исходный массив: \n");
